@@ -20,3 +20,14 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+@media (max-width: 575.98px) {
+  #LandingPage {
+      height: 25vh !important;
+  }
+}
+
+a {
+  color: #0077cc;
+  text-decoration: none !important;
+}
